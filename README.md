@@ -1,4 +1,4 @@
-# Landmark Classification Project
+# Landmark Classification Using CNN
 
 This repository contains the code and notebooks for the Landmark Classification project, where we build a Convolutional Neural Network (CNN) to classify landmarks from images. The project involves three major steps: building a CNN from scratch, applying transfer learning, and deploying the model in a simple app.
 
